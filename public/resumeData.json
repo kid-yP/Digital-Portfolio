@@ -1,0 +1,91 @@
+{
+  "main": {
+    "name": "Kidus Yosef",
+    "occupation": "Software Engineer | Full-Stack Web & Mobile Developer (React, Next.js, Node.js, React Native)",
+    "description": "I build scalable, high-performance web and mobile applications with a strong focus on user experience and clean architecture",
+    "image": "profilepic.png",
+    "bio": "Hi, I’m Kidus — a Software Engineering student at Addis Ababa Science and Technology University (AASTU) and a full-stack developer focused on building modern, scalable web and mobile applications.\n\nMy core strength is front-end development using React, Next.js, and TypeScript, combined with backend experience in Node.js, Express, Django, and Laravel. I’ve built real-world projects including dashboards, responsive web platforms, and mobile applications using React Native and Firebase.\n\nI also bring strong problem-solving skills from A2SV (Africa to Silicon Valley), where I’ve solved 300+ algorithmic problems and worked with advanced data structures and algorithms.\n\nI’ve earned certifications in Front-End Engineering (ALX) and completed full-stack development tracks through GDSC AASTU, where I ranked Top 5 in a competitive hackathon.\n\nI enjoy turning ideas into clean, functional, and scalable products while continuously improving my skills as a software engineer.",
+    "contactmessage": "Feel free to reach out if you’d like to collaborate or build something impactful.",
+    "email": "kidusmekuria11@gmail.com",
+    "phone": "+251944214470",
+    "address": {
+      "street": "",
+      "city": "Addis Ababa",
+      "state": "Ethiopia",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1K1vsnn0yCMfQmJaEnd0pspwAFHu0MXfq/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kidus-yosefm/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kid-yP",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Technologies I work with",
+    "education": [
+      {
+        "school": "Addis Ababa Science and Technology University (AASTU)",
+        "degree": "Bachelor’s Degree, Software Engineering",
+        "graduated": "Expected 2027",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "Software Developer (Projects & Freelance)",
+        "years": "2024 - Present",
+        "description": "Building full-stack web and mobile applications using React, Next.js, Node.js, and React Native. Focused on scalable architecture, API integration, performance optimization, and delivering clean, maintainable code."
+      }
+    ],
+    "skills": [
+      { "name": "React.js", "level": "90%" },
+      { "name": "Next.js", "level": "85%" },
+      { "name": "JavaScript / TypeScript", "level": "90%" },
+      { "name": "React Native", "level": "80%" },
+      { "name": "Tailwind CSS", "level": "85%" },
+      { "name": "Node.js / Express", "level": "75%" },
+      { "name": "Firebase", "level": "80%" },
+      { "name": "Git & GitHub", "level": "85%" }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "DoodleHub",
+        "category": "Interactive UI-based web application",
+        "image": "doodlehub.jpg",
+        "url": "https://doodle-hub-two.vercel.app/"
+      },
+      {
+        "title": "Job Nexus Platform",
+        "category": "Job listing and dashboard application",
+        "image": "jobnexus.jpg",
+        "url": "https://job-nexus-plum.vercel.app/"
+      },
+      {
+        "title": "Responsive Listing App",
+        "category": "Modern responsive UI with React & Tailwind",
+        "image": "listingapp.jpg",
+        "url": "https://alx-listing-app-deployed-delta.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Kidus quickly understood the requirements and delivered a clean, responsive solution with great attention to detail. His communication was clear, and he stayed committed until everything worked perfectly. I’d gladly work with him again.",
+        "user": "Upwork Client"
+      }
+    ]
+  }
+}
