@@ -1,6 +1,6 @@
 # PAPA React JS Resume Starter Pack and Digital Portfolio
 
-### <a href="kidus-yos.netlify.app/">LIVE DEMO</a>
+### LIVE DEMO: kidus-yos.netlify.app
 
 ## Resume Starter Pack Description
 
