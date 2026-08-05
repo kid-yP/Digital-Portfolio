@@ -16,7 +16,7 @@ Next, you will need to run the following command in the Terminal to clone the re
 
 `git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git`
 
-## 3. Install Dependancies
+## 3. Install Dependencies
 
 Next, you need to install all the dependancies using:
 
