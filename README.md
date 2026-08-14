@@ -1,6 +1,6 @@
 📄 Resume Starter Pack & Digital Portfolio
 
-🔗 View My Digital Portfolio: 
+🔗 View My Digital Portfolio: kidus-yos.netlify.app
 
 📖 About This Project
 This is my digital portfolio and resume website – a clean, modern, and fully customizable single-page application built with React. It showcases my skills, projects, experience, and achievements in a professional format that stands out to employers and clients.
